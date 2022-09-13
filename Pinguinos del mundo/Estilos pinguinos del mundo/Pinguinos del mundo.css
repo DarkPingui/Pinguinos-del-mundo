@@ -1,0 +1,19 @@
+h1{
+    text-align:center;
+}
+header{
+    background-color: black;
+    color: aliceblue;
+}
+.nav{
+    background-color: grey;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
